@@ -43,7 +43,7 @@ export default {
     },
     active: {
       type: Number,
-      default: 3,
+      default: 1,
     },
     activeColor: {
       type: String,
