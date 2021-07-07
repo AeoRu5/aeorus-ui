@@ -8,9 +8,6 @@
   "scripts": {
     "lerna": "lerna publish"
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "devDependencies": {
     "babel-plugin-component": "^1.1.1",
     "lerna": "^4.0.0",
