@@ -16,7 +16,7 @@ Vue.use(Steps).use(Button)
 export default {
   data() {
     return {
-      count: 10,
+      count: 8,
       active: 0,
     }
   },
