@@ -2,5 +2,6 @@
   "name": "@aeorus/steps",
   "version": "0.0.1",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "264ddc24a510a4aa6b250b695a33538176a33148"
 }
